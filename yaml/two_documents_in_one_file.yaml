@@ -6,8 +6,8 @@ concepts:
     queriable: true
   PhoneCover:
     queriable: true
-#  FeaturePhone:
-#    queriable: true
+  #  FeaturePhone:
+  #    queriable: true
   SmartPhone:
     queriable: true
 ---
